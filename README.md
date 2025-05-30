@@ -4,9 +4,9 @@
 </p>
 
 
-![Python 3.XX](https://img.shields.io/badge/PYTHON-3.11-yellow?style=for-the-badge&logo=python&logoColor=yellow)
+![Python 3.XX](https://img.shields.io/badge/PYTHON-3.xx-yellow?style=for-the-badge&logo=python&logoColor=yellow)
 ![Pygame](https://img.shields.io/badge/Pygame-orange?style=for-the-badge&logoColor=yellow)
-![GitHub repo size](https://img.shields.io/github/repo-size/jo0707/the-adventure-of-atra?style=for-the-badge&color=green)
+
 
 
 
@@ -24,11 +24,16 @@ WhiteHouse Heist is a 2D stealth-action comedy game where players take on the ro
 
 
 ## Screenshots
+<img src="screenshots/main-menu.png">
 
 <img src="screenshots/room1.png">
+
 <img src="screenshots/room2.png">
+
 <img src="screenshots/room3.png">
+
 <img src="screenshots/room4.png">
+
 <img src="screenshots/main-menu.png">
 
 
@@ -66,9 +71,9 @@ WhiteHouse Heist is a 2D stealth-action comedy game where players take on the ro
 |--------------------------      |-------------|
 | Ebentua Philippus Limbong      | 123140086   | 
 | Rifael Eurico Sitorus          | 123140077   | 
-| Nabila Yuliana                 | 12314  | 
-| Aditya Ronal Maruli            | 12314   | 
-| Riyan Sandi Prayoga            | 12314   | 
+| Aditya Ronal Maruli            | 123140093   | 
+| Nabila Yuliana                 | 123140099   | 
+| Riyan Sandi Prayoga            | 123140176   | 
 
 
 ## Reference

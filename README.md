@@ -26,6 +26,8 @@ WhiteHouse Heist is a 2D stealth-action comedy game where players take on the ro
 ## Screenshots
 <img src="screenshots/main-menu.png">
 
+<img src="screenshots/main-menu.png">
+
 <img src="screenshots/room1.png">
 
 <img src="screenshots/room2.png">
@@ -34,7 +36,7 @@ WhiteHouse Heist is a 2D stealth-action comedy game where players take on the ro
 
 <img src="screenshots/room4.png">
 
-<img src="screenshots/main-menu.png">
+
 
 
 ## How to Run
